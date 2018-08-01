@@ -9,6 +9,10 @@ void featureB(){
     printf("feature B completed");
 }
 
+void featureA1() {
+	
+}
+
 void featureC(){
     printf("completed C");
     printf("missing command");
