@@ -14,7 +14,8 @@ void featureB1(){
 }
 
 void featureA1() {
-	
+	printf("A1");
+	//printfA1 line 2
 }
 
 void featureC(){
