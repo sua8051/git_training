@@ -9,6 +9,10 @@ void featureB(){
     printf("feature B completed");
 }
 
+void featureB2() {
+	printf("B2");
+}
+
 void featureB1(){
 	printf("B1");
 }
