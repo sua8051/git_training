@@ -31,6 +31,9 @@ void featureC(){
     printf("missing command");
 }
 
+void addFeatureB4() {
+}
+
 int main(){
     sayHello();
 }
